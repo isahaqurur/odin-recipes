@@ -1,2 +1,3 @@
 # odin-recipes
 Recipes project
+In this project i made a recipe page strictly using HTML. I have made only two git commits because it was a little difficult at first to get use to. However, through practiced i got the hang of it. Furthermore, i also created links to get to one recipe then another link to go back to the homepage. Finally, i added a couple of pictures to help the viewers get an understanding of how the recipe should look.
